@@ -1,0 +1,7 @@
+Tiny Dungeon (1.0) by Kenney
+https://kenney.nl/assets/tiny-dungeon
+License: Creative Commons CC0 1.0
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Sprites used: player (tile_0087), agile small monster (tile_0108), ranged monster (tile_0084), heavy monster (tile_0122), ogre (tile_0123), boss (tile_0110).
+The original art is unmodified. Credit is appreciated by the creator but not required by the license.
